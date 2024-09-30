@@ -12,4 +12,4 @@
   **Push** - a command that uploads code from the local repository to the remote one\
   **Pull** - a command that updates the local repository from the remote repository\
   **Remote** - a repository used by multiple people to edit code together\
-  **Repository** - where all your code, files, and history is stored\
+  **Repository** - where all your code, files, and history is stored

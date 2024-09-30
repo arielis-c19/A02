@@ -1,7 +1,7 @@
 # A02
   Bold each of the Glossary words as you use them. Bold ONLY the glossary word.
   
-  BRANCH - It is a copy of the code that is not in production and is used by developers to create new code that does not interfere with the original code
+  **Branch** - It is a copy of the code that is not in production and is used by developers to create new code that does not interfere with the original code
   CLONE - creating a copy of a certain repository or branch
   COMMIT - saves specific changes you make to your files
   FETCH - a command that downloads new code from the remote repository without updating the local one

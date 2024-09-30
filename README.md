@@ -3,7 +3,7 @@
   
   **Branch** - It is a copy of the code that is not in production and is used by developers to create new code that does not interfere with the original code
   **Clone** - creating a copy of a certain repository or branch
-  **Commit** - saves specific changes you make to your files
+  **Commit** - saves specific changes you make to your files /br>\
   FETCH - a command that downloads new code from the remote repository without updating the local one
   GIT - a control system that tracks changes on files
   GITHUB - a platform that lets developers write, share, and work together on code
